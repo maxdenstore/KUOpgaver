@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Leksion1.cpp
+c:\users\max\source\repos\leksion1\leksion1\lab1.h(14): warning C4190: 'Addstring' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.15.26726\include\xstring(4373): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\max\source\repos\leksion1\leksion1\leksion1.cpp(10): warning C4273: 'AddNumbers': inconsistent dll linkage
+  c:\users\max\source\repos\leksion1\leksion1\lab1.h(12): note: see previous definition of 'AddNumbers'
+c:\users\max\source\repos\leksion1\leksion1\leksion1.cpp(11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\max\source\repos\leksion1\leksion1\leksion1.cpp(14): warning C4273: 'Addstring': inconsistent dll linkage
+  c:\users\max\source\repos\leksion1\leksion1\lab1.h(14): note: see previous definition of 'Addstring'
+c:\users\max\source\repos\leksion1\leksion1\leksion1.cpp(18): warning C4273: 'Addstring': inconsistent dll linkage
+  c:\users\max\source\repos\leksion1\leksion1\lab1.h(15): note: see previous definition of 'Addstring'
+  Generating Code...
+     Creating library C:\Users\Max\source\repos\Leksion1\Debug\Leksion1.lib and object C:\Users\Max\source\repos\Leksion1\Debug\Leksion1.exp
+  Leksion1.vcxproj -> C:\Users\Max\source\repos\Leksion1\Debug\Leksion1.dll
